@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harsh-1308
+- 👋 Hi, I’m Harsh Vardhan 
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning SQL, Python and Tableau
 - 💞️ I’m looking to collaborate on Industry projects and requirements in Machine Learning
